@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mhauri/base45": "^0.1.1",
+        "spomky-labs/cbor-php": "^2.0",
+        "fgrosse/phpasn1": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Perfacilis\\": "src/Perfacilis"
+        }
+    }
+}
