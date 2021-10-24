@@ -7,6 +7,15 @@ Currently supports decoding Domestic Dutch (NL) QR codes and European Greenpass 
 
 No support for supplying QR images yet.
 
+## Setup
+
+First make sure you have php7.3 or later and the bcmath extension is availeble.
+Then just clone the repo and install requirements trough composer:
+
+```bash
+composer install
+```
+
 ## Usage
 
 ```bash
